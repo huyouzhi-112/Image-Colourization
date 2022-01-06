@@ -1,3 +1,2 @@
 # image-colourization
-Autoencorder
-conditional generative adversarial networks (cGANs)
+Autoencorder and conditional generative adversarial networks (cGANs)
